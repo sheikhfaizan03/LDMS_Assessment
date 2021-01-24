@@ -1,0 +1,11 @@
+Login to schema where you want to run the script
+run assessment.sql to create all the scripts
+if you want to rollback then run assessment_undo.sql
+Use assessment_test.sql to execute the procedures/views.
+	add_employee
+    update_salary
+    transfer_employee
+    get_employee_salary
+	vu_dept_wise_emp
+	vu_dept_wise_salary
+	
